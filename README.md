@@ -212,13 +212,13 @@ The new architecture significantly reduced maintenance complexity and made futur
 
 ## Login Screen
 
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
